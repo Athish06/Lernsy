@@ -52,8 +52,4 @@ The app will be built with cross-platform frameworks, ensuring compatibility on 
 - **Description**: Monitors and manages time spent on the platform.
 - **Tools**: JavaScript, React Native, Push Notification APIs.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Athish06/Lernsy.git
-   cd Lernsy
+
