@@ -55,5 +55,5 @@ The app will be built with cross-platform frameworks, ensuring compatibility on 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/edtech-platform.git
-   cd edtech-platform
+   git clone https://github.com/Athish06/Lernsy.git
+   cd Lernsy
